@@ -1,6 +1,7 @@
 def my_upper(str=''):
     """this func is uppering text"""
-    return str.upper()
+    result = str.upper()
+    return result
 
 def my_title(str=''):
     """this func is uppering the first letters of words"""
